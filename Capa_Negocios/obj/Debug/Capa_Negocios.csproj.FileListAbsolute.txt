@@ -25,3 +25,24 @@ C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizb
 C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\System.Buffers.dll
 C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Capa_Datos.pdb
 C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\MySql.Data.xml
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Capa_Datos.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\MySql.Data.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Google.Protobuf.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\ZstdNet.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\BouncyCastle.Crypto.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Ubiety.Dns.Core.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\System.Memory.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\System.Buffers.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\K4os.Compression.LZ4.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\K4os.Hash.xxHash.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\System.Numerics.Vectors.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\Capa_Datos.pdb
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\bin\Debug\MySql.Data.xml
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.AssemblyReference.cache
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CopyComplete
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\Capa_Negocios\obj\Debug\Capa_Negocios.pdb

@@ -181,5 +181,11 @@ namespace WindowsFormsApp1
             //activarBoton(sender, RGBColors.color3);
             abrirFormularioHijo(new Usuarios());
         }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            lbHora.Text = DateTime.Now.ToString("hh:mm:ss tt");
+            lbFecha.Text = DateTime.Now.ToShortDateString();
+        }
     }
 }

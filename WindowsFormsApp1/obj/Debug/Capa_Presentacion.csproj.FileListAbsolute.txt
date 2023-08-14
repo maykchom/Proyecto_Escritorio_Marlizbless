@@ -46,3 +46,35 @@ C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizb
 C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Capa_Negocios.pdb
 C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Capa_Datos.pdb
 C:\Users\Mike\Documents\MESO\10mo. Semestre\Proyecto\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Capa_Negocios.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Capa_Datos.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\System.Memory.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Capa_Negocios.pdb
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\Capa_Datos.pdb
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\Capa_Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Usuarios.resources
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\Capa_Presentacion.csproj.CopyComplete
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\Bibliotecas\Documentos\MESO\Licenciatura\10mo Semestre\Proyecto profesional\Proyecto_Escritorio_Marlizbless\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
